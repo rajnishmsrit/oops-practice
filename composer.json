@@ -1,0 +1,18 @@
+{
+    "name": "oops-practice/oops-practice",
+    "description": "A playground to understand PHP OOPS.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rajnish Kumar",
+            "email": "rajnishmsrit@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "classmap": ["app/"]
+    }
+}
