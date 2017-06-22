@@ -13,6 +13,8 @@
 
     },
     "autoload": {
-        "classmap": ["app/"]
+        "classmap":[
+            "app/code"
+        ]
     }
 }

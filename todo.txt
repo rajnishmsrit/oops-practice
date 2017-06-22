@@ -1,0 +1,3 @@
+- setup routing for app
+- bootstrapping process
+- OOPS
